@@ -1,0 +1,31 @@
+body {
+    color: darkmagenta;
+    text-align: center;
+    padding-inline: 50px;
+}
+
+div.wrapper {
+    border: 3px dashed black;
+    border-radius: 15px;
+    padding-bottom: 15px;
+}
+
+img {
+    display: inline;
+    width: 500px;
+    height: auto;
+    margin: -50px 0 -50px 0;
+}
+
+.circle {
+    border-radius: 100%;
+    transform: rotate(50deg) scale(1);
+}
+
+p {
+    color: black;
+    display: inline-block;
+    border: 1px solid black;
+    padding-inline: 15px;
+    margin: 0px;
+}
